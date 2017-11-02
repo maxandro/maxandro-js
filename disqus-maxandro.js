@@ -1,4 +1,3 @@
-//<![CDATA[
 var disqus_shortname="Androsoft";
 var disqus_url = disqus_blogger_current_url;
 (function () {
@@ -49,4 +48,3 @@ var disqus_url = disqus_blogger_current_url;
 $(".commentbtn").click(function (e) {
 $(this).addClass("btncurrent").siblings().removeClass("btncurrent");
 });
-//]]>
